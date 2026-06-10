@@ -1,9 +1,8 @@
-
+import { Button } from '@/components/ui/button'
 
 function App() {
-  return (<div className="App">
-      <h1>Dragon Ball</h1>
-    </div>
+  return (
+    <Button>Dragon Ball</Button>
   );
 }
 
