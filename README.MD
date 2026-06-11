@@ -15,3 +15,6 @@
 
 ## Evidencia 5
 ![alt text](PHO-drangonball/docs/evi5.png)
+
+## Evidencia 6
+![alt text](PHO-drangonball/docs/evi6.png)
