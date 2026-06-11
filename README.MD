@@ -18,3 +18,21 @@
 
 ## Evidencia 6
 ![alt text](PHO-drangonball/docs/evi6.png)
+
+## Autor 
+# Andy Campos 
+
+## Evidencia 1
+![alt text](ACE-dragonball/docs/evi1.png)
+
+## Evidencia 2
+![alt text](ACE-dragonball/docs/evi2.png)
+
+## Evidencia 3
+![alt text](ACE-dragonball/docs/evi3.png)
+
+## Evidencia 4
+![alt text](ACE-dragonball/docs/evi4.png)
+
+## Evidencia 5
+![alt text](ACE-dragonball/docs/evi5.png)
